@@ -1,0 +1,3 @@
+include ':app'
+include ':stand-gradle-plugin'
+rootProject.name = "My Application"
